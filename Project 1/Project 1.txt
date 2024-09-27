@@ -1,0 +1,19 @@
+git clone https://github.com/kriitikaa/Computational-Social-Science-Projects.git
+
+ls
+
+cd Computational-Social-Science-Projects
+
+mkdir "Project 1"
+
+cd "Project 1"
+
+touch "Project 1.txt"
+
+nano "Project 1.txt"
+
+git add "Project 1"
+
+git commit 
+
+git push
